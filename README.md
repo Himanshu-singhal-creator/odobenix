@@ -8,7 +8,7 @@ Here's [odobenix in action](https://youtu.be/0gcP9oYyubA)
 #Programs
 This suite consists of the following software:
 
-#cw
+##cw
 An audio morse generator, for PulseAudio or OSS. You need to compile it first (just type 'make').  
 
     Text to audio morse utility by F. Wisard, HB9FXW, based on qrq v0.3.1  (c) 2006-2013 Fabian Kurz, DJ1YFK.
